@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Little Bit About Me
+title: Hands on Activity 1: What is Data?
 published: true
 ---
 **Team Member Cards**
