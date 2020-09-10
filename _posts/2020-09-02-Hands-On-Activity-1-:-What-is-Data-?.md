@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands on Activity 1: What is Data?
+title: Hands on Activity 1 What is Data?
 published: true
 ---
 **Team Member Cards**
