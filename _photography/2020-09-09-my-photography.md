@@ -1,6 +1,7 @@
 ---
 layout: default
 title: My Photography
+published: true
 ---
 
 This page displays some of my proudest photos!
