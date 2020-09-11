@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Weekly Reflective Blog 2
 published: true
 ---
