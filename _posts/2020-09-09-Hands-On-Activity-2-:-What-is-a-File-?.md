@@ -3,6 +3,7 @@ layout: post
 title: Hands On Activity 2: What is a File?
 published: true
 ---
+
 (https://rebeccasloane.github.io/2020/09/09/my-photography.html)
 
 Today was almost most certainly not the easiest thing I could do for this course. 
