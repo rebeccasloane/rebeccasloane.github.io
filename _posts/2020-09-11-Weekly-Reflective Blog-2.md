@@ -4,8 +4,7 @@ title: Weekly Reflective Blog 2
 published: true
 ---
 
-Here is the video I reference:
-(https://youtu.be/KN8YgJnShPM)
+[Here is the video I reference](https://youtu.be/KN8YgJnShPM)
 
 “Did my student really just go off the charts and go watch a Crash Course video on files and filing formats,” you may ask.
  I am sorry to disappoint you if you just asked yourself this question Professor Pilsch, because yes, I did in fact go to youtube and see if there was a Crash Course video on computer files.
