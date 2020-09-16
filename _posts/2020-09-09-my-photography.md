@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Photography
-published: true
+published: false
 ---
 
 This page displays some of my Texas A&M photos!
