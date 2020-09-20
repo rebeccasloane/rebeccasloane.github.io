@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weekly Reflective Blog 1
+title: Weekly Reflective Blog 3
 published: true
 ---
 
