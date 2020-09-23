@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Weekly Reflective Blog 2
+categories:
+- Weekly Reflective Blog
 published: true
 ---
 
