@@ -1,8 +1,11 @@
 ---
 layout: post
 title: Hands on Activity 1 What is Data?
+categories:
+- Hands On Activity
 published: true
 ---
+
 **Team Member Cards**
 For the team member cards, the type of data needed is plainly a name, title, and description (biography). 
 I personally think that with the Member Cards, it is the most effective way that I could imagine a researcher looking up the different members of a team. 
