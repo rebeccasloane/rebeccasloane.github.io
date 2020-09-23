@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hands On Activity 2 What is a File?
+- Hands On Activity
 published: true
 ---
 
