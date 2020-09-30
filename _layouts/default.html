@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Example Stylesheet</title>
+	<link rel="stylesheet" href="site.css">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -50,16 +52,3 @@
     <p><strong>Posted In</strong>: {{categories | join: ', ' | capitalize }}</p>
 {%endif%}
 <!doctype html>
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Example Site</title>
-		<link rel="stylesheet" href="site.css">
-	</head>
-	<body>
-		<h1>Page Title</h1>
-		<p>Here is an example paragraph.</p>
-		<p>Here is another example paragraph.</p>
-	</body>
-</html>
