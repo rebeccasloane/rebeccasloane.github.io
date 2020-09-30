@@ -1,3 +1,14 @@
-.author-name {
-	font-style: italic;
-}
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Becca's Blogging Bananza</title>
+		<link rel="stylesheet" href="site.css">
+	</head>
+	<body>
+		<h1>Page Title</h1>
+		<p>Here is an example paragraph.</p>
+		<p>Here is another example paragraph.</p>
+	</body>
+</html>
