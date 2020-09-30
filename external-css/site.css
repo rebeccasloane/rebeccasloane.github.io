@@ -8,3 +8,14 @@ h1 {
 .author-name {
 	font-style: italic;
 }
+.center {
+  margin: auto;
+  background: white;
+  width: 66%;
+}
+
+.outside {
+  margin: 3rem 0 0 -3rem;
+  background: magenta;
+  width: 66%;
+}
