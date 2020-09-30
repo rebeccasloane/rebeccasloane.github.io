@@ -7,7 +7,7 @@ published: true
 ---
 <article>
 	<header>
-		<h1Weekly Reflective Blog 4</h1>
+		<h1>Weekly Reflective Blog 4</h1>
 		<time>September 25, 2020</time>
 		<span class="author-name">Rebecca Sloane</span>
 	</header>
