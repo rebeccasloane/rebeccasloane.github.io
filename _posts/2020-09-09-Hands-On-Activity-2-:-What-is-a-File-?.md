@@ -5,6 +5,13 @@ categories:
 - Hands On Activity
 published: true
 ---
+<article>
+	<header>
+		<h1>Hands On Activity 2: What is a File?</h1>
+		<time>September 9, 2020</time>
+		<span class="author-name">Rebecca Sloane</span>
+	</header>
+</article>
 
 [My Photography Webpage](https://rebeccasloane.github.io/2020/09/09/my-photography.html)
 
