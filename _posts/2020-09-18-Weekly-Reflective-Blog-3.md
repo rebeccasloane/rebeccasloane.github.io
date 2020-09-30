@@ -5,6 +5,13 @@ categories:
 - Weekly Reflective Blog
 published: true
 ---
+<article>
+	<header>
+		<h1Weekly Reflective Blog 3</h1>
+		<time>September 18, 2020</time>
+		<span class="author-name">Rebecca Sloane</span>
+	</header>
+</article>
 
 [Here are my old notes that I am referencing.](https://docs.google.com/document/d/1eVIr36tOuGYTMOamHeHU4s5lheZbA2TDvKBnQct0v3I/edit?usp=sharing)
 
