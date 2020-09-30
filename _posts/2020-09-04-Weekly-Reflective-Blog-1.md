@@ -11,6 +11,7 @@ published: true
 		<time>September 4, 2020</time>
 		<span class="author-name">Rebecca Sloane</span>
 	</header>
+  </article> 
   
 [Here's a website I reference.](https://youtu.be/dK_fUz2etk8)
 
@@ -39,4 +40,3 @@ Now to consider the fact that all along the idea of why new visualizations keep 
 
 Each new type of visualization is created for a reason.
 Though each visualization may be very specific, that is all within good reason because it only had one goal to start with: communicating that data the most efficiently.
-</article>
