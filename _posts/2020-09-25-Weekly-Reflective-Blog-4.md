@@ -5,6 +5,13 @@ categories:
 - Weekly Reflective Blog
 published: true
 ---
+<article>
+	<header>
+		<h1Weekly Reflective Blog 4</h1>
+		<time>September 25, 2020</time>
+		<span class="author-name">Rebecca Sloane</span>
+	</header>
+</article>
 
 [Here is the article I reference.](https://community.widen.com/collective/s/article/What-is-metadata)
 
