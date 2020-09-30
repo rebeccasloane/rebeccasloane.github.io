@@ -5,7 +5,14 @@ categories:
 - Hands On Activity
 published: true
 ---
-
+<article>
+	<header>
+		<h1>Hands on Activity 1: What is Data?</h1>
+		<time>September 2, 2020</time>
+		<span class="author-name">Rebecca Sloane</span>
+	</header>
+  
+  
 **Team Member Cards**
 For the team member cards, the type of data needed is plainly a name, title, and description (biography). 
 I personally think that with the Member Cards, it is the most effective way that I could imagine a researcher looking up the different members of a team. 
@@ -32,3 +39,4 @@ Musically, I can see it relating very similarly to films (or any visual media ty
 For history, however, I feel that off the bat there would be too many colors and noise in its presentation. 
 The timeline would have to become more specific. 
 Though I like this visualization, it seems that it must be rather specific for a researcher to read the visualization easily and thoroughly.
+</article>
