@@ -13,3 +13,6 @@ published: true
 	</header>
 </article>	
   
+This week I attempted and succeeded to add headers onto my posts with an accurate title, time and author. 
+I was wanting to stylize my navigation and blog in general more, but I am having difficulty actually implementing it.
+I will keep on trying until I am able to be successful in that too!
