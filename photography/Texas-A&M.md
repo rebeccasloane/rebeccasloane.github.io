@@ -6,7 +6,7 @@ published: true
 
 This page displays some of my Texas A&M photos!
 
-[![Texas A&M versus Texas State](IMG_6274.JPG){:width="200px"}](IMG_6274.JPG)
+[![Texas A&M versus Texas State](IMG_6274.JPG){:width="200px"}](IMG_6274.JPG) [![Study Abroad in Edinburgh](IMG_5321.JPG){:width="200px"}](IMG_5321.JPG)
 
 [![Study Abroad in Edinburgh](IMG_5321.JPG){:width="200px"}](IMG_5321.JPG)
 
