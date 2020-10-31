@@ -15,4 +15,4 @@ published: true
 
 For my chance-based activity I was really hoping to create a short story. I am still working out kinks. 
 
-href="/tracery/tracery-example.html">Here is a link to that website.
+[Here is a link to that page](https://rebeccasloane.github.io/tracery/tracery-example.html)
